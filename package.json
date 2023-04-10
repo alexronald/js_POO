@@ -1,0 +1,12 @@
+{
+  "name": "gestioncuentacorriente",
+  "version": "1.0.0",
+  "description": "gesition de cuenta corriente popular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex andrade",
+  "license": "ISC",
+  "type": "module"
+}
